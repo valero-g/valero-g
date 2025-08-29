@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**valero-g/valero-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Valero Gaudo**. Welcomet to my Github profile.
 
-Here are some ideas to get you started:
+I am an industrial engineer with broad experience in automotive sector. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about languages 🗣
+
+Passionate about learning 👨‍🏫
+
+And passionate about coding!!!!! 🖥
+
+
+- 🔭 I’m currently working on a tool to reduced administrative work reading pdfs and processing them
+- 🌱 I’m currently learning React and expanding my python knowledge.
+- 👯 I’m looking to collaborate on any challenging and interesting projects
+- 💬 Ask me about anything!
+- 📫 How to reach me: valerogaudo@gmail.com
+- ⚡ Fun fact: I started computing on a Commodore Amiga. I still expect the Amiga days will return some day
+
